@@ -1,0 +1,9 @@
+{
+  "name": "mcp-demo-test",
+  "version": "1.0.0",
+  "description": "Demo repo created and managed entirely via MCP tools",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "npx tsx src/index.ts"
+  }
+}
